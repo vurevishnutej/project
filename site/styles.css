@@ -44,7 +44,7 @@ button a:hover, button a:focus{
 }
 #nav-list{
 	margin-top: 0px;
-	margin-right: 60px;
+	margin-right: 40px;
 	
 }
 #nav-list a{
@@ -58,21 +58,20 @@ button a:hover, button a:focus{
 #nav-list a span{
 	font-size: 1.8em
 }
-#phone{
-	margin-top: 5px;
-}
-#phone a{
-	text-align: right;
-	padding-bottom: 0;
 
-
-}
 .nav{
 	margin-left:5px;
 	padding-left: 10px;
 }
-
-
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.glyphicon{
+	right:5px;
+}
 
 
 
