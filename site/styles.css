@@ -1,10 +1,10 @@
 
 	body{
-		background:url(image1.jpeg);
+		background:url(image1.1.jpeg);
 	
 }
 #header-nav{
-background: url(image1.jpeg);
+background: url(image1.1.jpeg);
 }
 .navbar-brand{
 	padding-top: 0px;
@@ -147,15 +147,15 @@ button a:hover, button a:focus{
 
 }
 #testimonials p{
-	color: orange;
+	color:#FFD700;
 	font-style: italic;
 	font-weight: bold;
 	text-transform: capitalize;
 	font-size: 1.5em;
 
 }
-#social>span{
-	text-decoration: none;
+.vishnu{
+	background: url(image4.1.jpeg);
 }
 
 
@@ -383,10 +383,7 @@ margin-top: 0;
 		width: 360px;
 		margin:0 auto 15px;
 	}
-	.panel-footer section{
-		margin-bottom: 30px;
-		text-align: center;
-	}
+
 
 
 
