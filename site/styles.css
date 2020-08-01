@@ -117,6 +117,7 @@ button a:hover, button a:focus{
 #address p{
 	color: black;
 	font-size: 2em;
+	text-transform: capitalize;
 
 	padding: 0;
 }
@@ -138,10 +139,11 @@ button a:hover, button a:focus{
 #connectus span{
 	font-size: 1.5em;
 	color: white;
+	text-transform: capitalize;
 }
 #connectus h2{
 
-	font-size: 1.5em;
+	font-size: 2em;
 	color: white;
 	text-transform: capitalize;
 	font-style: italic;
