@@ -190,6 +190,7 @@ button a:hover, button a:focus{
 button{
 	background-color: black;
 	color: white;
+	
 }
 .image-tile span{
 	position:absolute;
