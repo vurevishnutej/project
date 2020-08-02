@@ -154,8 +154,35 @@ button a:hover, button a:focus{
 
 
 }
+#connectus button:hover{
+	background-color: #ff6666;
+}
+ #social-media ul li a{
+	color:white;
+}
+#social-media ul li{
+	background-color: black;
+	padding: 12px 16px;
+	display: inline-block;
+	
+}
+
+#social-media ul li:hover{
+	background-color: #ff6666;
+}
+#social-media h3{
+
+	font-size: 2em;
+	color: white;
+	text-transform: capitalize;
+	font-style: italic;
+
+	font-weight: bold;
+}
+
+
 #testimonials p{
-	color:#FFD700;
+	color:black;
 	font-style: italic;
 	font-weight: bold;
 	text-transform: capitalize;
